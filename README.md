@@ -1,4 +1,4 @@
-![Zomato SQL Analysis](https://cdn.dribbble.com/users/132983/screenshots/6359703/shot_4x.jpg)
+![Zomato Banner](https://cdn.dribbble.com/users/132983/screenshots/6359703/shot_4x.jpg)
 
 
 
